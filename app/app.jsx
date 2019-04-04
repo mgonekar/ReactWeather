@@ -1,5 +1,5 @@
-const React = required('react');
-const ReactDOM = required('react-dom');
+const React = require('react');
+const ReactDOM = require('react-dom');
 var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var Main = require('Main');
 var Weather = require('Weather');
